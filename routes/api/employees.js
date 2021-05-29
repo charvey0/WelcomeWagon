@@ -1,6 +1,8 @@
 const router = require("express").Router();
 const employeeController = require("../../client/controllers/employeeController");
 
+//`https://randomuser.me/api/?results=${num}&inc=name,gender,location,email,dob,registered,phone,cell,id,picture&nat=us&noinfo`
+
 router.route("/employees")
     .post(employeeController.insertCurrent)
     .get(employeeController.getCurrent);
