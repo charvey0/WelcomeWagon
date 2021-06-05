@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const query = "https://randomuser.me/api/?results=5&inc=name,gender,location,dob,registered,email,phone,picture&noinfo&nat=us";
+const query = "https://randomuser.me/api/?seed=asdf&results=200&inc=name,location,dob,email,phone,picture&noinfo&nat=us";
 
 const API = {
     search: function () {
