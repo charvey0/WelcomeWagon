@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/WelcomeWagon/static/css/main.86afd036.chunk.css",
-    "main.js": "/WelcomeWagon/static/js/main.f3fc823d.chunk.js",
-    "main.js.map": "/WelcomeWagon/static/js/main.f3fc823d.chunk.js.map",
+    "main.css": "/WelcomeWagon/static/css/main.9e1efb2d.chunk.css",
+    "main.js": "/WelcomeWagon/static/js/main.763ab104.chunk.js",
+    "main.js.map": "/WelcomeWagon/static/js/main.763ab104.chunk.js.map",
     "runtime-main.js": "/WelcomeWagon/static/js/runtime-main.8eb6a5eb.js",
     "runtime-main.js.map": "/WelcomeWagon/static/js/runtime-main.8eb6a5eb.js.map",
     "static/css/2.61b4cb56.chunk.css": "/WelcomeWagon/static/css/2.61b4cb56.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.971cbd17.chunk.js.map": "/WelcomeWagon/static/js/2.971cbd17.chunk.js.map",
     "index.html": "/WelcomeWagon/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/WelcomeWagon/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.86afd036.chunk.css.map": "/WelcomeWagon/static/css/main.86afd036.chunk.css.map",
+    "static/css/main.9e1efb2d.chunk.css.map": "/WelcomeWagon/static/css/main.9e1efb2d.chunk.css.map",
     "static/js/2.971cbd17.chunk.js.LICENSE.txt": "/WelcomeWagon/static/js/2.971cbd17.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8eb6a5eb.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.971cbd17.chunk.js",
-    "static/css/main.86afd036.chunk.css",
-    "static/js/main.f3fc823d.chunk.js"
+    "static/css/main.9e1efb2d.chunk.css",
+    "static/js/main.763ab104.chunk.js"
   ]
 }
